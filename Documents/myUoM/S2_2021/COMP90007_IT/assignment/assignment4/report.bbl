@@ -1,0 +1,104 @@
+\begin{thebibliography}{}
+
+\bibitem[Arfaoui et~al., 2018]{8648064}
+Arfaoui, A., Kribeche, A., Senouci, S.~M., and Hamdi, M. (2018).
+\newblock Game-based adaptive remote access vpn for iot: Application to
+  e-health.
+\newblock In {\em 2018 IEEE Global Communications Conference (GLOBECOM)}, pages
+  1--7.
+
+\bibitem[Chen and Liu, 2011]{6006134}
+Chen, W.~s. and Liu, C. (2011).
+\newblock The applied research of ecc encryption algorithm in vpn technology.
+\newblock In {\em 2011 International Conference on Internet Technology and
+  Applications}, pages 1--4.
+
+\bibitem[Cruz de~la Cruz et~al., 2020]{9253767}
+Cruz de~la Cruz, J.~E., Romero~Goyzueta, C.~A., and Cahuana, C.~D. (2020).
+\newblock Open vproxy: Low cost squid proxy based teleworking environment with
+  openvpn encrypted tunnels to provide confidentiality, integrity and
+  availability.
+\newblock In {\em 2020 IEEE Engineering International Research Conference
+  (EIRCON)}, pages 1--4.
+
+\bibitem[Garg et~al., 2015]{7492654}
+Garg, R., Gupta, M., Amin, R., Patel, K., Islam, S.~H., and Biswas, G.~P.
+  (2015).
+\newblock Design of secure authentication protocol in socks v5 for vpn using
+  mobile phone.
+\newblock In {\em 2015 International Conference on Trends in Automation,
+  Communications and Computing Technology (I-TACT-15)}, pages 1--6.
+
+\bibitem[Jin et~al., 2016]{7568518}
+Jin, Y., Tomoishi, M., and Matsuura, S. (2016).
+\newblock Enhancement of vpn authentication using gps information with
+  geo-privacy protection.
+\newblock In {\em 2016 25th International Conference on Computer Communication
+  and Networks (ICCCN)}, pages 1--6.
+
+\bibitem[Jones et~al., 2019]{9020514}
+Jones, J., Wimmer, H., and Haddad, R.~J. (2019).
+\newblock Pptp vpn: An analysis of the effects of a ddos attack.
+\newblock In {\em 2019 SoutheastCon}, pages 1--6.
+
+\bibitem[Lackorzynski et~al., 2019]{8758010}
+Lackorzynski, T., Köpsell, S., and Strufe, T. (2019).
+\newblock A comparative study on virtual private networks for future industrial
+  communication systems.
+\newblock In {\em 2019 15th IEEE International Workshop on Factory
+  Communication Systems (WFCS)}, pages 1--8.
+
+\bibitem[Liu et~al., 2021]{9482283}
+Liu, R., Zheng, Y., Yang, Y., Chao, Y., Li, Y., and Yan, Y. (2021).
+\newblock Research on secure access technology of electric power wireless
+  private network based on hybrid encryption.
+\newblock In {\em 2021 IEEE 4th Advanced Information Management, Communicates,
+  Electronic and Automation Control Conference (IMCEC)}, volume~4, pages
+  69--74.
+
+\bibitem[Qin et~al., 2019]{9017047}
+Qin, H., Li, Z., Hu, P., Zhang, Y., and Dai, Y. (2019).
+\newblock Research on point-to-point encryption method of power system
+  communication data based on block chain technology.
+\newblock In {\em 2019 12th International Conference on Intelligent Computation
+  Technology and Automation (ICICTA)}, pages 328--332.
+
+\bibitem[Shif et~al., 2018]{8406192}
+Shif, L., Wang, F., and Lung, C.-H. (2018).
+\newblock Improvement of security and scalability for iot network using sd-vpn.
+\newblock In {\em NOMS 2018 - 2018 IEEE/IFIP Network Operations and Management
+  Symposium}, pages 1--5.
+
+\bibitem[Thanh and Kim, 2012]{6407698}
+Thanh, P.~N. and Kim, K. (2012).
+\newblock A methodology for implementation and integration two-factor
+  authentication into vpn.
+\newblock In {\em 2012 IEEE 31st International Performance Computing and
+  Communications Conference (IPCCC)}, pages 195--196.
+
+\bibitem[Uskov, 2012]{6296089}
+Uskov, A.~V. (2012).
+\newblock Information security of ipsec-based mobile vpn: Authentication and
+  encryption algorithms performance.
+\newblock In {\em 2012 IEEE 11th International Conference on Trust, Security
+  and Privacy in Computing and Communications}, pages 1042--1048.
+
+\bibitem[Wang et~al., 2018]{8411922}
+Wang, G., Sun, Y., He, Q., Xin, G., and Wang, B. (2018).
+\newblock A content auditing method of ipsec vpn.
+\newblock In {\em 2018 IEEE Third International Conference on Data Science in
+  Cyberspace (DSC)}, pages 634--639.
+
+\bibitem[Xu and Ni, 2020]{9418865}
+Xu, Z. and Ni, J. (2020).
+\newblock Research on network security of vpn technology.
+\newblock In {\em 2020 International Conference on Information Science and
+  Education (ICISE-IE)}, pages 539--542.
+
+\bibitem[Zhou and Zhang, 2020]{9182437}
+Zhou, Y. and Zhang, K. (2020).
+\newblock Dos vulnerability verification of ipsec vpn.
+\newblock In {\em 2020 IEEE International Conference on Artificial Intelligence
+  and Computer Applications (ICAICA)}, pages 698--702.
+
+\end{thebibliography}
